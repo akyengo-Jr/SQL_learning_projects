@@ -136,9 +136,7 @@ This project explores global COVID-19 data through a series of analytical SQL qu
 
 ## 📄 License
 
-MIT License - Free for educational and portfolio use
+MIT License - Free for educational use
 
----
-
-*"In God we trust, all others must bring data." - W. Edwards Deming*  
-*This project transforms raw COVID data into actionable insights*
+This project is inspired through youtube tutorial by AlexTheAnalyst. [Here's the link] (https://www.youtube.com/watch?v=qfyynHBFOsM)
+Originally written with MSSQL.
