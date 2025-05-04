@@ -138,5 +138,5 @@ This project explores global COVID-19 data through a series of analytical SQL qu
 
 MIT License - Free for educational use
 
-This project is inspired through youtube tutorial by AlexTheAnalyst. [Here's the link] (https://www.youtube.com/watch?v=qfyynHBFOsM)
+This project is inspired through youtube tutorial by AlexTheAnalyst. Here's the link: (https://www.youtube.com/watch?v=qfyynHBFOsM)
 Originally written with MSSQL.
